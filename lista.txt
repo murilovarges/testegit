@@ -1,4 +1,6 @@
 arroz
 feijão
 carne
+frango
+
 
